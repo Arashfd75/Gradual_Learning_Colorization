@@ -5,3 +5,7 @@ Reducing the amount of sent data by the drone. This happens by sending less info
 To this end, a colored image will be send with each N grayscale image as a reference to colorize the grayscale images. Our model will be updated during the process by each colored image.
 
 ![Colorization Results](Images/Colorization.png)
+
+## Our Algorithm
+
+![Process of colorizationi](Images/Colorization.png)
