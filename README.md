@@ -8,4 +8,4 @@ To this end, a colored image will be send with each N grayscale image as a refer
 
 ## Our Algorithm
 
-![Process of colorizationi](Images/Training.png)
+![Process of colorizationi](Images/Training.png | width=500)
